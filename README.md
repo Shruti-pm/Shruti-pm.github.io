@@ -1,4 +1,4 @@
-# Sumit Sah - Professional Website
+# Shruti Maralappanavar - Professional Website
 
 A clean, professional personal website with a template system that allows you to update all pages by editing just one file.
 
