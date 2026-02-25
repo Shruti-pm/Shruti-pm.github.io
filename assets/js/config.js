@@ -61,8 +61,6 @@ function loadTemplate() {
                 <a href="/" class="profile-name-link">
                     <h2 class="profile-name">${SITE_CONFIG.name}</h2>
                 </a>
-                <p class="profile-title">${SITE_CONFIG.title}</p>
-                <p class="profile-affiliation">${SITE_CONFIG.affiliation}</p>
                 <div class="profile-social">
                     <a href="${SITE_CONFIG.social.googleScholar}" target="_blank" rel="noopener noreferrer" class="social-link" title="Google Scholar">
                         🎓 Google Scholar
