@@ -54,7 +54,7 @@ function loadTemplate() {
         <div class="profile-section">
             <a href="/" class="profile-image-link">
                 <div class="profile-image">
-                    <img src="assets/images/profile.jpg" alt="${SITE_CONFIG.name}" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex'">
+                    <img src="assets/images/Myprofile.jpg" alt="${SITE_CONFIG.name}" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex'">
                     <div class="profile-placeholder">SS</div>
                 </div>
             </a>
