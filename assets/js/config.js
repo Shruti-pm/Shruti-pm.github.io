@@ -20,7 +20,6 @@ const SITE_CONFIG = {
         { href: "research.html", text: "Research", page: "research" },
         { href: "group.html", text: "Group", page: "group" },
         { href: "teaching.html", text: "Teaching", page: "teaching" },
-        { href: "activities.html", text: "Activities", page: "activities" },
         { href: "blog.html", text: "Blog", page: "blog" },
         { href: "contact.html", text: "Contact", page: "contact" }
     ]
