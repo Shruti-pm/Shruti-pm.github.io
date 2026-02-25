@@ -3,6 +3,7 @@
 const SITE_CONFIG = {
     // Personal Information - EDIT THESE VALUES
     name: "Shruti Maralappanavar",
+    email: "mshruti@iiitdwd.ac.in", 
     
     
     // Social Media Links - EDIT THESE URLs
