@@ -3,9 +3,7 @@
 const SITE_CONFIG = {
     // Personal Information - EDIT THESE VALUES
     name: "Shruti Maralappanavar",
-    title: "Senior Research Fellow", 
-    affiliation: "Indian Institute of Technology Dharwad, INDIA",
-    email: "sumit.sah1824@gmail.com",
+    
     
     // Social Media Links - EDIT THESE URLs
     social: {
